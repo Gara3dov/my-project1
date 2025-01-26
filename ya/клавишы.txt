@@ -1,0 +1,49 @@
+<Tab> – сдвиг кода вправо.
+<Shift>+<Tab> – сдвиг кода влево.
+<Ctrl>+<Shift>+K – удаление целиком строки кода.
+<Alt>+<стрелка вверх>/<стрелка вниз> – перемещение строки кода вверх/вниз.
+<Ctrl>+<стрелка вправо>/<стрелка влево> – перемещение курсора к следующему/предыдущему слову.
+<Ctrl>+<Shift>+<стрелка вправо> – выделение кода от позиции курсора до конца слова. 
+<Ctrl>+<Shift>+<стрелка влево> – снятие выделения.
+<Alt>+<Shift>+<стрелка вправо> – нарастающее выделение кода (сначала выделяется слово, в котором установлен курсор, затем целая строка, затем блок и весь текст).
+<Alt>+<Shift>+<стрелка влево> – снятие выделения.
+<Alt> + щелчки мышью в нужных местах – установка множественного курсора, позволяющего редактировать код во многих местах одновременно.
+По окончании редактирования нажимается клавиша <Esc> для выключения данного режима – курсор снова становится одним.
+Выделение одного слова в редакторе приводит к подсвечиванию и выделению всех аналогичных слов в коде.
+<Ctrl>+D – установка курсора в начало всех предварительно выделенных одинаковых слов.
+<Ctrl>+/ – комментирование предварительно выделенного блока кода. Повторное нажатие данной комбинации клавиш приведет к снятию комментария на этом участке кода.
+<Shift>+<Alt>+<стрелка вверх>/<стрелка вниз> –  дублирование строки кода вниз или вверх соответственно. Аналогичным образом можно копировать не одну строку, а целый выделенный блок кода.
+Cntrl+alt+N новый файл
+shift+alt+f Форматировать документ
+
+emmet comand "!" full structura 
+        "lorem" prosto text dlya testov 
+        "i" naklon 
+        "b" tolstyu 
+        "em" naclon dlya slepux 
+        "strong" tolsty dlya slepux
+
+cntl+shift+p comandnaya stroka sverxy
+
+"sub" nadpis vnizy 
+"sup" nadpis sverxy
+
+"ul" spisok ne uporyadochen(tocki) 
+         "li" punkt v spiske   ul li puck1 /li  /ul    "li" vsegda odinakovo i nyshno postoyano otcruvat i zakruvat
+
+"ol" spisok uporyadochen (sifry)
+
+B "ul" i "ol" mozno pisat tilko "li" , a yshe v "li" pisat drugie tegi tipo "h1"
+
+"<!--" dlya sozdaniya comenta , ispolzyetsya dlya razbitiya koda na chasti chtobu legche chitat bulo
+       
+        Cntrl+/ delaet vudelenyu text comentom
+        "cntrl+/" mozno ispolzovat dlya prasmotra stranicu s kakimto blokom i bez nego
+
+"img" kartinka 
+    "src"-dlya otobrasheniya kartinki src=" put do kartinki "
+    "alt"-zapiska dlya oboznacheniya
+
+src="/img/ffdf.jpg"   src="img/dfdfdf.png"
+Absolytni pyt ot kornevou papki "ny tipa/img/nazvanie kartinki"
+Otnositelnyu put pishetsa ot fila "index" 
