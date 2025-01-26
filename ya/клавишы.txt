@@ -47,3 +47,8 @@ B "ul" i "ol" mozno pisat tilko "li" , a yshe v "li" pisat drugie tegi tipo "h1"
 src="/img/ffdf.jpg"   src="img/dfdfdf.png"
 Absolytni pyt ot kornevou papki "ny tipa/img/nazvanie kartinki"
 Otnositelnyu put pishetsa ot fila "index" 
+teg "a" dlya silok   <a href=""> kakoto text  </a>             <a href="https//......."> /<a href="//.......">  
+что бы сылка открылась на новой странице нужно <a href="https//......." target="_blank">
+что бы сылка открылась в том же окне <a href="https//......." target="_self">
+так же можно испотльзвать для ссылок на картинки и на картинки в других папках
+так же можно сделать что бы по ссылке файл скачивался <a href="https//......." target="_blank" download>  так же можно дать название файла download="........."
