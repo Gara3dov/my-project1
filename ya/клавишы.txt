@@ -46,7 +46,7 @@ B "ul" i "ol" mozno pisat tilko "li" , a yshe v "li" pisat drugie tegi tipo "h1"
 
 src="/img/ffdf.jpg"   src="img/dfdfdf.png"
 Absolytni pyt ot kornevou papki "ny tipa/img/nazvanie kartinki"
-Otnositelnyu put pishetsa ot fila "index" 
+Otnositelnyu put pishetsa ot fila "index" ../../
 teg "a" dlya silok   <a href=""> kakoto text  </a>             <a href="https//......."> /<a href="//.......">  
 что бы сылка открылась на новой странице нужно <a href="https//......." target="_blank">
 что бы сылка открылась в том же окне <a href="https//......." target="_self">
