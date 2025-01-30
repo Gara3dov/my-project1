@@ -70,3 +70,5 @@ Form
  <input type="radio" >
  <input type="radio" >
  <label for="music">музыка</label> <input type="checkbox" id="music" checked> для того что бы галочка выбора отмечалась при нажатии на текст
+ <img width="250px" src="" alt="нужно будет потом вставить"> width для коректировки размера картинки по ширине
+ <img height="250px" src="" alt="нужно будет потом вставить"> height для коректировки размера картинки по высоте
